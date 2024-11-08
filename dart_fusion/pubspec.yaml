@@ -4,11 +4,10 @@ description: A library that brings together a harmonious blend of essential
 version: 3.1.7
 executables:
   dart_fusion: dart_fusion
-homepage: https://inidia.app
-repository: https://github.com/Nialixus/dart_fusion.git
-issue_tracker: https://github.com/Nialixus/dart_fusion/issues
-documentation: https://raw.githack.com/Nialixus/dart_fusion/main/dart_fusion/doc/api/index.html
-publish_to: none
+homepage: https://BreegBenjamin.dev
+repository: https://github.com/BreegBenjamin/dart_fusion.git
+issue_tracker: https://github.com/BreegBenjamin/dart_fusion/issues
+documentation: https://raw.githack.com/BreegBenjamin/dart_fusion/main/dart_fusion/doc/api/index.html
 funding:
   - https://www.buymeacoffee.com/nialixus
 screenshots:
